@@ -1,3 +1,3 @@
-# Text-Classification-on-MovieLens
+# Automatic Text Summarization
 
-I have just begun exploring the movielens dataset which contains about 100,000 ratings associated with many movies released between 1996 and 2018. Will keep updating the repository frequently :)
+Currently, I am playing around with the data and looking at various known methods to summarize text. Will keep updating the repository frequently :)
