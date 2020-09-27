@@ -19,11 +19,6 @@ from nltk.corpus import stopwords
 from string import punctuation
 import re
 
-while 1:
-    x = np.array([1,2,3])
-    y = np.array([1,2,3])
-    z = x * y.T
-
 """# **Loading and Preprocessing**"""
 
 data = pd.read_csv("/content/drive/My Drive/news_summary_more.csv")
